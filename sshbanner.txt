@@ -1,10 +1,10 @@
 <b>
-<font color="#3CB371">»» Share Net Society ««</font><br>
+<br><font color="#3CB371">»» Share Net Society ««</font><br>
 <font color="#B22222">--- Warning ---</font><br>
 <font color="#FF8C00">No DDoS</font><br>
 <font color="#FF4500">No Torrent</font><br>
 <font color="#FFA07A">No Spamming</font><br>
 <font color="#FF69B4">No Carding</font><br>
 <font color="#CD5C5C">--- Support Us ---</font><br>
-<font color="#008080">https://snsvpn.xyz/</font>
+<font color="#008080">https://snsvpn.xyz/</font><br>
 </b>
