@@ -1,12 +1,5 @@
 <b>
-<br>
-░██████╗███╗░░██╗░██████╗
-██╔════╝████╗░██║██╔════╝
-╚█████╗░██╔██╗██║╚█████╗░
-░╚═══██╗██║╚████║░╚═══██╗
-██████╔╝██║░╚███║██████╔╝
-╚═════╝░╚═╝░░╚══╝╚═════╝░
-<br><font color="#008080">»» SNS: MESSAGE ««</font><br>
+<br><font color="#008080">»» SNS: SHINU STERBEN ««</font><br>
 <font color="#FF6347">--- WARNING ---</font><br>
 <font color="#34A56F">NO DDOS</font><br>
 <font color="#34A56F">NO TORRENT</font><br>
@@ -14,6 +7,6 @@
 <font color="#34A56F">NO CARDING</font><br>
 <font color="#FF6347">--- RESET & REBOOT ---</font><br>
 <font color="#34A56F">12:00 M.N. (GTM+8) TIME</font><br>
-<font color="#00CED1">--- SUPPORT US ---</font><br>
-<font color="#FFE87C">VISIT:</font> <font color="#728FCE">https://snsvpn.xyz</font><br>
+<font color="#FF6347">--- SUPPORT US ---</font><br>
+<font color="#728FCE">VISIT:</font> <font color="#00CED1">https://snsvpn.xyz</font><br>
 </b>
